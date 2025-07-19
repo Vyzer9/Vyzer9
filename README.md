@@ -3,7 +3,6 @@
 
 <!-- Stats -->
 ![Vyzer9's Stats](https://github-readme-stats.vercel.app/api?username=Vyzer9&theme=jolly&show_icons=true&hide_border=true&count_private=true)
-![Vyzer9's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vyzer9&theme=jolly&hide_border=true)
 
 <!-- Languages -->
 # 💻 Tech Stack:
