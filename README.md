@@ -1,12 +1,17 @@
-<h1 align="center">Hi Guys, I'm Vyzer9</h1> 
-<h3 align="center">I'm a lover of codes and challenges</h3>
+<h1 align="center">Hi Guys, I'm Vyzer9 ⭐ </h1> 
+<h6 >Developer focused on efficient solutions. Currently honing mobile development skills with Kotlin and open to innovative projects. 🚀 </h6>
 
 <!-- Stats -->
-![Vyzer9's Stats](https://github-readme-stats.vercel.app/api?username=Vyzer9&theme=jolly&show_icons=true&hide_border=true&count_private=true)
+![Vyzer9's Stats](https://github-readme-stats.vercel.app/api?username=Vyzer9&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile)
+![Vyzer9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vyzer9&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&card_width=400)
 
 <!-- Languages -->
-# 💻 Tech Stack:
+# Tech Stack 💻 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+<br>
+<br>
 
 <!-- Connect with me-->
 <h3 align="left">Connect with me:</h3>
