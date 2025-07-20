@@ -1,6 +1,6 @@
 <!-- Menu -->
 <h1 align="center">Hi Guys, I'm Vyzer9 ⭐ </h1> 
-<h6 >Developer focused on efficient solutions. Currently honing mobile development skills with Kotlin and open to innovative projects. 🚀 </h6>
+<h6 align="center">Developer focused on efficient solutions. Currently honing mobile development skills with Kotlin and open to innovative projects. 🚀 </h6>
 
 <!-- Stats -->
 ![Vyzer9's Stats](https://github-readme-stats.vercel.app/api?username=Vyzer9&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile)
