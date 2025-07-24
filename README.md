@@ -1,16 +1,17 @@
 <!-- Menu -->
-<h1 align="center">Hi Guys, I'm Vyzer9 ⭐ </h1> 
-<h6 align="center">Developer focused on efficient solutions. Currently honing mobile development skills with Kotlin and open to innovative projects. 🚀 </h6>
+<h1 align="center">Hi Guys, I'm Vyzer9 <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
+</picture> </h1> 
+<h6 align="center">Python developer focused on cybersecurity 🚀 </h6>
 
 <!-- Stats -->
 ![Vyzer9's Stats](https://github-readme-stats.vercel.app/api?username=Vyzer9&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Vyzer9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vyzer9&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Languages -->
-# Tech Stack 💻 
-<img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go logo" /> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind logo" /> <img src="https://img.shields.io/badge/Gin-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Gin logo" /> <img src="https://img.shields.io/badge/Mux-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Mux logo" />
-
-<br>
+# Tech Stack 
+[![My Skills](https://skillicons.dev/icons?i=python,flask,bash,elixir,js,docker,ubuntu,linux,git,postgres,postman,html,css,bootstrap,tailwind)](https://skillicons.dev)
 <br>
 <br> 
 <!-- Connect with me-->
