@@ -3,8 +3,8 @@
 <h6 align="center">Developer focused on efficient solutions. Currently honing mobile development skills with Kotlin and open to innovative projects. 🚀 </h6>
 
 <!-- Stats -->
-![Vyzer9's Stats](https://github-readme-stats.vercel.app/api?username=Vyzer9&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile)
-![Vyzer9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vyzer9&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&card_width=400)
+![Vyzer9's Stats](https://github-readme-stats.vercel.app/api?username=Vyzer9&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Vyzer9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vyzer9&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Languages -->
 # Tech Stack 💻 
