@@ -7,6 +7,12 @@
 
 ---
 
+<h1>About me <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture></h1>
+<p>I'm a Software Engineering student focusing on cybersecurity, specifically pentesting. I began my journey in this field in 2023, driven by a strong interest in protecting digital assets and systems. I use various programming languages and technologies to build robust solutions and explore the complexities of software development and security.</p>
+
 <!-- Skills and Tools -->
 <h1>Skills and Tools <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp">
@@ -34,11 +40,12 @@ Here are some projects that demonstrate my security and development skills:
 <!-- Stats -->
 ## Stats
 <p>Behind every streak and line of code is curiosity, discipline, and a drive to keep learning. My GitHub stats are a snapshot of that journey</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vyzer9&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vyzer9&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
 
+![Vyzer9's Stats](https://github-readme-stats.vercel.app/api?username=Vyzer9&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+![Vyzer9's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vyzer9&theme=chartreuse-dark&hide_border=true)
+
+### Most Used Languages
+![Vyzer9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vyzer9&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
