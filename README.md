@@ -42,7 +42,6 @@ Here are some projects that demonstrate my security and development skills:
 <p>Behind every streak and line of code is curiosity, discipline, and a drive to keep learning. My GitHub stats are a snapshot of that journey</p>
 
 ![Vyzer9's Stats](https://github-readme-stats.vercel.app/api?username=Vyzer9&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
-![Vyzer9's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vyzer9&theme=chartreuse-dark&hide_border=true)
 
 ### Most Used Languages
 ![Vyzer9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vyzer9&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
