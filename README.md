@@ -1,17 +1,24 @@
-<!-- Menu -->
-<h1 align="center">Hi Guys, I'm Vyzer9 <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
-</picture> </h1> 
-<h6 align="center">Software Developer with a strong focus on cybersecurity, specializing in Python-driven solutions for security automation and analysis. 🚀 </h6>
+<!-- Animated Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+Guys,+I'm+Vyzer9!;Cybersecurity+%7C+Python;Welcome+to+my+Profile!+🚀" alt="Typing SVG" /> 
+</p>
+
+<h6 align="center">Software Developer with a strong focus on cybersecurity, specializing in Python-driven solutions for security automation and analysis. </h6>
 
 ---
 
-<!-- Languages -->
-# Skills and tools 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,bash,linux,postgres,js,docker,git,postman,html,css,bootstrap)](https://skillicons.dev)
-<br>
-<br> 
+<!-- Skills and Tools -->
+<h1>Skills and Tools <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="32" height="32">
+</picture></h1>
+
+<p>Languages & Tools I wield to automate, analyze, and secure.</p>
+
+[![Languages](https://skillicons.dev/icons?i=python,flask,linux,bash,postgres,js,html,css,bootstrap,docker,git,postman)](https://skillicons.dev)
+
+
+---
 
 <!-- Project -->
 <h1>Projects <picture>
@@ -26,16 +33,18 @@ Here are some projects that demonstrate my security and development skills:
 
 <!-- Stats -->
 ## Stats
-![Vyzer9's Stats](https://github-readme-stats.vercel.app/api?username=Vyzer9&theme=algolia&show_icons=true&hide_border=false&count_private=true)
-![Vyzer9's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vyzer9&theme=algolia&hide_border=false)
+<p>Behind every streak and line of code is curiosity, discipline, and a drive to keep learning. My GitHub stats are a snapshot of that journey</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vyzer9&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vyzer9&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
 
 
-## Most used languages
-![Vyzer9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vyzer9&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 ---
 
 <!-- Connect with me-->
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /></h1>
+<p>Want to collaborate? My inbox is always open.</p>
 <div align="left">
   <a href="https://www.instagram.com/rsc.santoz"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=413b3b&style=for-the-badge" height="35" alt="instagram logo" /></a>
   <a href="https://discord.gg/vSS9Q2YP5D"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=413b3b&style=for-the-badge" height="35" alt="discord logo" /></a>
