@@ -3,17 +3,37 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
 </picture> </h1> 
-<h6 align="center">Python developer focused on cybersecurity 🚀 </h6>
+<h6 align="center">Software Developer with a strong focus on cybersecurity, specializing in Python-driven solutions for security automation and analysis. 🚀 </h6>
 
-<!-- Stats -->
-![Vyzer9's Stats](https://github-readme-stats.vercel.app/api?username=Vyzer9&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Vyzer9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vyzer9&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+---
 
 <!-- Languages -->
-# Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,bash,elixir,js,docker,ubuntu,linux,git,postgres,postman,html,css,bootstrap,tailwind)](https://skillicons.dev)
+# Skills and tools 
+[![My Skills](https://skillicons.dev/icons?i=python,flask,bash,linux,postgres,js,docker,git,postman,html,css,bootstrap)](https://skillicons.dev)
 <br>
 <br> 
+
+<!-- Project -->
+<h1>Projects <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32">
+</picture> </h1> 
+Here are some projects that demonstrate my security and development skills:
+
+* **[C2-Educational-Steganography](https://github.com/Vyzer9/C2-Educational-Steganography)**
+    * *Description:* An educational project that explores steganography, focusing on data hiding in images using Python, for the purpose of learning about covert channel techniques.
+    * *Technologies:* Python, Pillow (PIL), NumPy.
+
+<!-- Stats -->
+## Stats
+![Vyzer9's Stats](https://github-readme-stats.vercel.app/api?username=Vyzer9&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+![Vyzer9's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vyzer9&theme=algolia&hide_border=false)
+
+
+## Most used languages
+![Vyzer9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vyzer9&theme=algolia&show_icons=true&hide_border=false&layout=compact)
+---
+
 <!-- Connect with me-->
 <h3 align="left">Connect with me:</h3>
 <div align="left">
