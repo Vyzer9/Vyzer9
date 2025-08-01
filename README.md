@@ -21,7 +21,7 @@
 
 <p>Languages & Tools I wield to automate, analyze, and secure.</p>
 
-[![Languages](https://skillicons.dev/icons?i=python,flask,linux,bash,postgres,js,html,css,bootstrap,docker,git,postman)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,flask,linux,bash,postgres,js,html,css,bootstrap,docker,git,postman)](https://skillicons.dev)
 
 
 ---
