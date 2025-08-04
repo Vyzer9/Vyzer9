@@ -1,9 +1,9 @@
 <!-- Animated Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+Guys,+I'm+Vyzer9!;Cybersecurity+%7C+Python;Welcome+to+my+Profile!+🚀" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+Guys,+I'm+Vyzer9!;Back-end+%7C+Java;Welcome+to+my+Profile!+🚀" alt="Typing SVG" /> 
 </p>
 
-<h6 align="center">Software Developer with a strong focus on cybersecurity, specializing in Python-driven solutions for security automation and analysis. </h6>
+<h6 align="center">Aspiring Java Developer focused on learning and building clean, efficient, and scalable applications.</h6>
 
 ---
 
@@ -11,7 +11,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture></h1>
-<p>I'm a Software Engineering student focusing on cybersecurity, specifically pentesting. I began my journey in this field in 2023, driven by a strong interest in protecting digital assets and systems. I use various programming languages and technologies to build robust solutions and explore the complexities of software development and security.</p>
+<p>I'm a Software Engineering student currently focusing on Java development. I began my technology journey in 2023. I use Java and related technologies to build clean, efficient, and scalable applications, while continually honing my skills and exploring the depth of modern software engineering.</p>
 
 <!-- Skills and Tools -->
 <h1>Skills and Tools <picture>
@@ -21,7 +21,7 @@
 
 <p>Languages & Tools I wield to automate, analyze, and secure.</p>
 
-[![Languages](https://skillicons.dev/icons?i=python,java,flask,linux,bash,postgres,js,html,css,bootstrap,docker,git,postman)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,linux,bash,postgres,js,html,css,bootstrap,spring,docker,git)](https://skillicons.dev)
 
 
 ---
