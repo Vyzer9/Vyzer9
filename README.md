@@ -53,7 +53,6 @@ Here are some projects that demonstrate my security and development skills:
 <h1 align="left">Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /></h1>
 <p>Want to collaborate? My inbox is always open.</p>
 <div align="left">
-  <a href="https://www.instagram.com/rsc.santoz"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=413b3b&style=for-the-badge" height="35" alt="instagram logo" /></a>
   <a href="https://discord.gg/vSS9Q2YP5D"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=413b3b&style=for-the-badge" height="35" alt="discord logo" /></a>
   <a href="mailto:Samzoovsk19@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=413b3b&style=for-the-badge" height="35" alt="gmail logo" /></a>
   <a href="https://twitter.com/Vyzr9"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=413b3b&style=for-the-badge" height="35" alt="twitter logo" /></a>
