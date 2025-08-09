@@ -51,7 +51,6 @@ Here are some projects that demonstrate my security and development skills:
 
 <!-- Connect with me-->
 <h1 align="left">Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /></h1>
-<p>Want to collaborate? My inbox is always open.</p>
 <div align="left">
   <a href="https://www.instagram.com/rsc.santoz"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=413b3b&style=for-the-badge" height="35" alt="instagram logo" /></a>
   <a href="https://discord.gg/vSS9Q2YP5D"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=413b3b&style=for-the-badge" height="35" alt="discord logo" /></a>
