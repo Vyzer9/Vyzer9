@@ -22,7 +22,7 @@
 
 <p>Languages & Tools I wield to automate, analyze, and secure.</p>
 
-[![Languages](https://skillicons.dev/icons?i=bash,js,ts,html,css,bootstrap,vite,nodejs,next,mongodb,sass,react)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=bash,js,html,css,bootstrap,vite,sass)](https://skillicons.dev)
 
 
 ---
