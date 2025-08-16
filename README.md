@@ -12,7 +12,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture></h1>
-<p>I'm a Software Engineering student. I began my technology journey in 2023. I use Java, JavaScript, and related technologies to build clean, efficient, and scalable applications, while continually honing my skills and exploring the depth of modern software engineering..</p>
+<p>I'm a Software Engineering student. I began my technology journey in 2023. I use Typescript, JavaScript, and related technologies to build clean, efficient, and scalable applications, while continually honing my skills and exploring the depth of modern software engineering..</p>
 
 <!-- Skills and Tools -->
 <h1>Skills and Tools <picture>
@@ -22,7 +22,8 @@
 
 <p>Languages & Tools I wield to automate, analyze, and secure.</p>
 
-[![Languages](https://skillicons.dev/icons?i=bash,js,html,css,bootstrap,vite,sass,mongodb,bun,react,vue)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,html,css,bootstrap,tailwind,vite,sass,gulp,babel,react,prisma)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=nodejs,mongodb,bash,bun,docker,figma,postman,vscode,notion,obsidian,express,vscodium)](https://skillicons.dev)
 
 
 ---
