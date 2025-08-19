@@ -4,28 +4,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+Guys,+I'm+Richard!;Fullstack+Dev+in+progress;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="#about-me">About</a> •
-  <a href="#skills">Skills</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#stats">Stats</a> •
-  <a href="#contact">Contact</a>
-</p>
-
 ---
 
 ## 📌 About Me
 
 I'm a Software Engineering student who started in 2023. I enjoy building clean, scalable apps with **TypeScript**, **JavaScript**, and modern tools. Always learning and exploring more of the software world!
 
----
 
 ## 🛠️ Skills
 
 **Languages & Tools I use:**
 
 [![Languages](https://skillicons.dev/icons?i=ts,js,html,css,bootstrap,tailwind,vite,sass,gulp,babel,react,prisma)](https://skillicons.dev)  
-[![Tools](https://skillicons.dev/icons?i=nodejs,mongodb,bash,bun,docker,figma,postman,vscode,notion,obsidian,express,vscodium)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=nodejs,vercel,bash,bun,docker,figma,postman,vscode,notion,obsidian,ae,vscodium)](https://skillicons.dev)
 
 ---
 
