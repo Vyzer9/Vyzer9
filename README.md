@@ -40,9 +40,10 @@ I'm a Software Engineering student who started in 2023. I enjoy building clean, 
 
 Wanna collaborate or chat? Let's connect:
 
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=000000&style=for-the-badge)](https://www.instagram.com/rsc.santoz)
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=000000&style=for-the-badge)](https://discord.gg/vSS9Q2YP5D)
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=000000&style=for-the-badge)](mailto:Samzoovsk19@gmail.com)
-[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=000000&style=for-the-badge)](https://twitter.com/Vyzr9)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rsc.santoz)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/vSS9Q2YP5D)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:Samzoovsk19@gmail.com)
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Vyzr9)
+
 
 ---
