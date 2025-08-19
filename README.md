@@ -27,13 +27,12 @@ I'm a Software Engineering student who started in 2023. I enjoy building clean, 
 - [**C2-Educational-Steganography**](https://github.com/Vyzer9/C2-Educational-Steganography)  
   *Explore data hiding techniques in images using Python (Pillow, NumPy). Educational steganography project.*
 
----
 
 ## 📈 Stats
 
-![Vyzer9's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vyzer9&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+![Vyzer9's Stats](https://github-readme-stats.vercel.app/api?username=Vyzer9&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+![Vyzer9's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vyzer9&theme=graywhite&hide_border=true)
 
----
 
 ## 📬 Contact
 
