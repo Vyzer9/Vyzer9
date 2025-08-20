@@ -1,8 +1,10 @@
 <!-- Minimalist GitHub README with Menu -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+Guys,+I'm+Richard!;Fullstack+Dev+in+progress;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+Guys,+I'm+Richard!;Fullstack+Dev+in+progress;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
 </p>
+
+
 
 ---
 
@@ -15,10 +17,9 @@ I'm a Software Engineering student who started in 2023. I enjoy building clean, 
 
 **Languages & Tools I use:**
 
-[![Languages](https://skillicons.dev/icons?i=ts,js,html,css,bootstrap,tailwind,vite,sass,gulp,babel,react,prisma)](https://skillicons.dev)  
-[![Tools](https://skillicons.dev/icons?i=nodejs,vercel,bash,bun,docker,figma,postman,vscode,notion,obsidian,ae,vscodium)](https://skillicons.dev)
+[![Languages & Frameworks](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vite,prisma,gulp,babel)](https://skillicons.dev)
+[![Tools & Platforms](https://skillicons.dev/icons?i=nodejs,bun,docker,vercel,bash,postman,figma,vscode,vscodium,notion,obsidian,ae)](https://skillicons.dev)
 
----
 
 ## 🚧 Projects
 
