@@ -18,7 +18,7 @@ I'm a Software Engineering student who started in 2023. I enjoy building clean, 
 **Languages & Tools I use:**
 
 [![Languages & Frameworks](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vite,npm,gulp,babel)](https://skillicons.dev)
-[![Tools & Platforms](https://skillicons.dev/icons?i=nodejs,bun,docker,vercel,bash,postman,figma,vscode,vscodium,notion,obsidian,ae)](https://skillicons.dev)
+[![Tools & Platforms](https://skillicons.dev/icons?i=nodejs,python,docker,vercel,bash,postman,figma,vscode,vscodium,notion,obsidian,ae)](https://skillicons.dev)
 
 
 ## 🚧 Projects
