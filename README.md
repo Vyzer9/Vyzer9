@@ -21,14 +21,6 @@ I'm a Software Engineering student who started in 2023. I enjoy building clean, 
 [![Tools & Platforms](https://skillicons.dev/icons?i=nodejs,python,docker,vercel,bash,postman,figma,vscode,vscodium,notion,obsidian,ae)](https://skillicons.dev)
 
 
-## 🚧 Projects
-
-> Some highlights from my journey in dev and cybersecurity:
-
-- [**C2-Educational-Steganography**](https://github.com/Vyzer9/C2-Educational-Steganography)  
-  *Explore data hiding techniques in images using Python (Pillow, NumPy). Educational steganography project.*
-
-
 ## 📈 Stats
 
 <div align="center">
