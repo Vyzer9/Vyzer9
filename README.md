@@ -1,7 +1,7 @@
 <!-- Minimalist GitHub README with Menu -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Hi+Guys,+I'm+Richard!;Fullstack+Dev+in+progress;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+Guys,+I'm+Richard!;Fullstack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 
