@@ -23,7 +23,7 @@ I'm a Software Engineering student who started in 2023. I enjoy building clean, 
 
 ## 📈 Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Vyzer9&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="Vyzer9's GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vyzer9&theme=graywhite&hide_border=true" alt="Vyzer9's GitHub Streak" height="165"/>
 </div>
