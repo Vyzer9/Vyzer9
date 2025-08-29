@@ -16,8 +16,8 @@
   <summary>🌐 Languages & Others</summary>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vite,npm,gulp,babel" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,docker,vercel,bash,postman,figma,vscode,vscodium,notion,obsidian,ae" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vite,npm,gulp,vue" />
+    <img src="https://skillicons.dev/icons?i=nodejs,haskell,python,vercel,bash,postman,figma,vscode,vscodium,notion,obsidian,ae" />
   </a>
 </details>
 
