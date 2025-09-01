@@ -5,20 +5,19 @@
 </p>
 
 <p align="center">
-  <sub>Fullstack Developer · Focused on clean code and scalable systems</sub>
+  <sub>Fullstack Developer · Focused on clean code and scalable systems </sub>
 </p>
 
 ---
 
 ## 🛠️ Skills
-
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vite,npm,gulp,vue" />
-    <img src="https://skillicons.dev/icons?i=nodejs,haskell,python,vercel,bash,postman,figma,vscode,vscodium,notion,obsidian,ae" />
+    <img src="https://skillicons.dev/icons?i=haskell,elixir,ts,js,bootstrap,vite,aws,react,html,css,npm,vue" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,linux,bash,debian,sass,figma,vscode,vscodium,notion,obsidian,ae" />
+    <img src="https://skillicons.dev/icons?i=babel,bun,git,gulp,htmx,kali,prisma,vercel,wordpress,github,twitter,discord" />
   </a>
 
 ## 📈 Stats
-
   <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Vyzer9&show_icons=true&theme=tokyonight&hide=issues" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyzer9&layout=compact&theme=tokyonight" height="150"/>
