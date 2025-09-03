@@ -14,7 +14,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,elixir,ts,js,bootstrap,vite,azure,react,html,css,npm,vue" />
     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,linux,bash,debian,sass,figma,vscode,vscodium,notion,obsidian,ae" />
-    <img src="https://skillicons.dev/icons?i=babel,bun,git,gulp,htmx,kali,mysql,vercel,wordpress,github,twitter,discord" />
+    <img src="https://skillicons.dev/icons?i=babel,bun,git,gulp,htmx,kali,mysql,vercel,wordpress,postgres,postman,sublime" />
   </a>
 
 ## 📈 Stats
