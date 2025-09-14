@@ -1,11 +1,11 @@
 <!-- Minimalist GitHub README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Richard;Fullstack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Richard;DevOps+Engineer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <sub>Fullstack Developer · Focused on clean code and scalable systems </sub>
+  <sub>DevOps Engineer & Security Researcher · Focused on clean code and scalable systems </sub>
 </p>
 
 ---
