@@ -12,9 +12,9 @@
 
 ## 🛠️ Skills
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,go,react,nodejs,flask,aws,azure,docker,postgresql,prisma" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,go,react,nodejs,flask,aws,azure,docker,postgresql,deno" />
     <img src="https://skillicons.dev/icons?i=postman,vuejs,bootstrap,tailwind,sass,wordpress,vite,figma,notion,obsidian,vscode,vscodium" />
-    <img src="https://skillicons.dev/icons?i=mongodb,prometheus,git,html,css,npm,bash,linux,redhat,jenkins,bun,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=sublime,supabase,git,html,css,npm,bash,linux,redhat,jenkins,bun,kubernetes" />
   </a>
 
 ## 📈 Stats
