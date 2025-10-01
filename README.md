@@ -10,11 +10,9 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,go,python,kotlin,react,nodejs,flask,aws,spring,docker,postgresql,deno" />
-    <img src="https://skillicons.dev/icons?i=postman,vuejs,bootstrap,tailwind,sass,wordpress,vite,figma,notion,obsidian,vscode,vscodium" />
-    <img src="https://skillicons.dev/icons?i=sublime,supabase,git,html,css,npm,bash,linux,redhat,jenkins,bun,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=js,ts,kotlin,react,nodejs,flask,aws,spring,docker,postgresql,gradle" />
   </a>
 
 ## 📈 Stats
@@ -22,4 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vyzer9&show_icons=true&theme=tokyonight&hide=issues" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyzer9&layout=compact&theme=tokyonight" height="150"/>
   </div>
+
+## 🏆 Certifications
 
