@@ -21,7 +21,7 @@
 - AWS Certified Cloud Practitioner
 - AWS Technical Essentials
 - Kubernetes (Linux Foundation)
-- XSS & Exploit (Linux Foundation)
+- Soft Skills IBM
 - Cisco Networking Essentials
 - Google Cybersecurity Certificate
 
