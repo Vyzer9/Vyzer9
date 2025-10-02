@@ -25,7 +25,7 @@
 - Cisco Networking Essentials
 - Google Cybersecurity Certificate
 
-## 🔍 OSS Contributions
+## 🔍 Open Source Contributions
 
 <img width="396" height="120" alt="image" src="https://github.com/user-attachments/assets/27a55552-b1b8-471c-8ad7-d5564d534914" />
 <img width="396" height="120" alt="image" src="https://github.com/user-attachments/assets/b89487a0-161f-455d-8e80-c8bf74732338" />
