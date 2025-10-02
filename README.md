@@ -28,6 +28,6 @@
 ## 🔍 Open Source Contributions
 
 <img width="396" height="120" alt="image" src="https://github.com/user-attachments/assets/27a55552-b1b8-471c-8ad7-d5564d534914" />
-<img width="396" height="120" alt="image" src="https://github.com/user-attachments/assets/c1e464f8-9163-4f3b-a25d-d555f449d737" />
+
 
 
