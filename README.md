@@ -10,14 +10,14 @@
 
 ---
 
+## 🕵️ About Me
+I'm a Senior Security Engineer with over a decade of experience in safeguarding complex systems, specializing in fullstack development, cloud architecture, and advanced security research. I lead high-impact projects for major organizations, driving scalable solutions and mentoring emerging talent. As the creator of my own programming language, I bring innovative problem-solving to the tech community. Passionate about clean code and system resilience, I thrive at the intersection of security and software engineering.
+
 ## 🛠️ Skills 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,go,kotlin,azure,aws,docker,kubernetes,jenkins,nodejs,postgresql" />
     <img src="https://skillicons.dev/icons?i=react,vuejs,tailwind,sass,vite,gradle,bun,deno,vercel,supabase,postman" />
   </a>
-
-## 🕵️ Me
-I'm a security engineer with additional skills related to fullstack and cloud development. I'm a contributor to large organizations and the founder of my own language.
 
 ## 🔍 Open Source Contributions
 
