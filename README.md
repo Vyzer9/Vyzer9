@@ -16,6 +16,9 @@
     <img src="https://skillicons.dev/icons?i=react,vuejs,tailwind,sass,vite,gradle,bun,deno,vercel,supabase,postman" />
   </a>
 
+## 🕵️ Me
+I'm a security engineer with additional skills related to fullstack and cloud development. I'm a contributor to large organizations and the founder of my own language.
+
 ## 🔍 Open Source Contributions
 
 <img width="396" height="120" alt="image" src="https://github.com/user-attachments/assets/27a55552-b1b8-471c-8ad7-d5564d534914" />
