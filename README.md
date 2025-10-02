@@ -16,17 +16,16 @@
     <img src="https://skillicons.dev/icons?i=react,vuejs,tailwind,sass,vite,gradle,bun,deno,vercel,supabase,postman" />
   </a>
 
-## 📈 Stats
-  <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vyzer9&show_icons=true&theme=tokyonight&hide=issues" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyzer9&layout=compact&theme=tokyonight" height="150"/>
-  </div>
+## 🔍 OSS Contributions Snapshot
 
-## 🏆 Certifications
+<img width="396" height="120" alt="image" src="https://github.com/user-attachments/assets/27a55552-b1b8-471c-8ad7-d5564d534914" />
+<img width="396" height="120" alt="image" src="https://github.com/user-attachments/assets/b89487a0-161f-455d-8e80-c8bf74732338" />
+
+## 🏆 Technical Foundations & Expertise
 
 - AWS Certified Cloud Practitioner
 - AWS Technical Essentials
 - Kubernetes (Linux Foundation)
-- XSS & Exploit (Linux Fondation)
+- XSS & Exploit (Linux Foundation)
 - Cisco Networking Essentials
 - Google Cybersecurity Certificate
