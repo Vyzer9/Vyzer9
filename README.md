@@ -13,8 +13,7 @@
 ## 🛠️ Skills 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,go,kotlin,azure,aws,docker,kubernetes,jenkins,nodejs,postgresql" />
-    <img src="https://skillicons.dev/icons?i=react,vuejs,tailwind,sass,vite,gulp,bun,deno,vercel,supabase,postman" />
-     <img src="https://skillicons.dev/icons?i=npm,bootstrap,svg,bash,gradle,html,css,babel,linux,idea,figma" />
+    <img src="https://skillicons.dev/icons?i=react,vuejs,tailwind,sass,vite,gradle,bun,deno,vercel,supabase,postman" />
   </a>
 
 ## 📈 Stats
