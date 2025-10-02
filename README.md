@@ -16,14 +16,10 @@
     <img src="https://skillicons.dev/icons?i=react,vuejs,tailwind,sass,vite,gradle,bun,deno,vercel,supabase,postman" />
   </a>
 
-## 🏆 Technical Foundations & Expertise
+## Stats
 
-- AWS Certified Cloud Practitioner
-- AWS Technical Essentials
-- Kubernetes (Linux Foundation)
-- Soft Skills IBM
-- Cisco Networking Essentials
-- Google Cybersecurity Certificate
+![Vyzer9's Stats](https://github-readme-stats.vercel.app/api?username=Vyzer9&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Vyzer9's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vyzer9&theme=vue-dark&hide_border=true)
 
 ## 🔍 Open Source Contributions
 
