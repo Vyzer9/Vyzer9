@@ -25,3 +25,9 @@
 
 ## 🏆 Certifications
 
+- AWS Certified Cloud Practitioner
+- AWS Technical Essentials
+- Kubernetes (Linux Foundation)
+- XSS & Exploit (Linux Fondation)
+- Cisco Networking Essentials
+- Google Cybersecurity Certificate
