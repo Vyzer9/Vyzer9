@@ -22,7 +22,7 @@ I'm a Senior Security Engineer with over a decade of experience in safeguarding 
 ## 🔍 Open Source Contributions
 
 <img width="396" height="120" alt="image" src="https://github.com/user-attachments/assets/27a55552-b1b8-471c-8ad7-d5564d534914" />
-<img width="396" height="120" alt="image" src="https://github.com/user-attachments/assets/b8fea008-3ad2-42b2-af51-9a331631d518" />
+
 
 
 
