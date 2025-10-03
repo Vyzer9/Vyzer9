@@ -21,5 +21,6 @@ I'm a Senior Security Engineer with over a decade of experience in safeguarding 
 
 ## 🔍 Open Source Contributions
 
-<img width="396" height="120" src="https://www.jenkins.io/images/jenkins-logo-title-dark.svg" alt="Jenkins logo"> <img width="396" height="120" alt="image" src="https://github.com/user-attachments/assets/27a55552-b1b8-471c-8ad7-d5564d534914" />
+<img width="396" height="120" src="https://www.jenkins.io/images/jenkins-logo-title-dark.svg" alt="Jenkins logo"> <img width="396" height="120" alt="Untitled(1)" src="https://github.com/user-attachments/assets/c224284c-fa59-491f-8121-114510bf5311" />
+
 
