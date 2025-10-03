@@ -11,7 +11,7 @@
 ---
 
 ## 🕵️‍♂️ About Me
-I'm a Senior Security Engineer with over a decade of experience in safeguarding complex systems, specializing in fullstack development, cloud architecture, and advanced security research. I lead high-impact projects for major organizations, driving scalable solutions and mentoring emerging talent. As the creator of my own programming language, I bring innovative problem-solving to the tech community. Passionate about clean code and system resilience, I thrive at the intersection of security and software engineering.
+I'm a security engineer focused on protecting complex systems, specializing in full-stack development, cloud architecture, and advanced security research. I lead high-impact projects for large organizations, driving scalable solutions and mentoring emerging talent. As the creator of my own programming language, I bring innovative solutions to the technology community. Passionate about clean code and system resilience, I thrive at the intersection of security and software engineering. And, of course, I'm passionate about Kotlin...
 
 ## 🛠️ Skills 
   <a href="https://skillicons.dev">
