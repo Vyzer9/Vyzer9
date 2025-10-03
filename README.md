@@ -10,7 +10,7 @@
 
 ---
 
-## 🕵️ About Me
+## 🕵️‍♂️ About Me
 I'm a Senior Security Engineer with over a decade of experience in safeguarding complex systems, specializing in fullstack development, cloud architecture, and advanced security research. I lead high-impact projects for major organizations, driving scalable solutions and mentoring emerging talent. As the creator of my own programming language, I bring innovative problem-solving to the tech community. Passionate about clean code and system resilience, I thrive at the intersection of security and software engineering.
 
 ## 🛠️ Skills 
@@ -19,7 +19,7 @@ I'm a Senior Security Engineer with over a decade of experience in safeguarding 
     <img src="https://skillicons.dev/icons?i=react,vuejs,tailwind,sass,vite,gradle,bun,deno,vercel,supabase,postman" />
   </a>
 
-## 🔍 Open Source Contributions
+## 🤝 Open Source Contributions
 
 <img width="396" height="120" src="https://www.jenkins.io/images/jenkins-logo-title-dark.svg" alt="Jenkins logo"> <img width="396" height="120" alt="Untitled(1)" src="https://github.com/user-attachments/assets/c224284c-fa59-491f-8121-114510bf5311" />
 
