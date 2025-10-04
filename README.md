@@ -22,5 +22,7 @@ I'm a security engineer focused on protecting complex systems, specializing in f
 ## 🤝 Open Source Contributions
 
 <img width="396" height="120" src="https://www.jenkins.io/images/jenkins-logo-title-dark.svg" alt="Jenkins logo"> <img width="396" height="120" alt="Untitled(1)" src="https://github.com/user-attachments/assets/c224284c-fa59-491f-8121-114510bf5311" />
+<img width="396" height="200" alt="Amazon_Web_Services-Logo(1)" src="https://github.com/user-attachments/assets/e769650b-64e5-45ce-b436-7b6d06f31d45" />
+
 
 
