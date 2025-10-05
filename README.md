@@ -31,3 +31,4 @@ I'm a security engineer focused on protecting complex systems, specializing in f
 100
 
 ## Conhecimento
+a mo
