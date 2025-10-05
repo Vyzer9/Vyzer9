@@ -28,6 +28,6 @@ I'm a security engineer focused on protecting complex systems, specializing in f
 -->
 
 <!--
-<img width="396" height="120" alt="image" src="https://github.com/user-attachments/assets/faf50e49-5be0-4436-946b-70398703163c" /> <img width="396" height="150" alt="aws(1)" src="https://github.com/user-attachments/assets/7d009f39-8a2c-4aab-a97f-b3e2dbf5d569" />
+height="120" alt="image" src="https://github.com/user-attachments/assets/faf50e49-5be0-4436-946b-70398703163c" /> <img width="396" height="150" alt="aws(1)" src="https://github.com/user-attachments/assets/7d009f39-8a2c-4aab-a97f-b3e2dbf5d569" />
 -->
 
