@@ -28,13 +28,6 @@ I'm a security engineer focused on protecting complex systems, specializing in f
 -->
 
 
-# baby baby
-owowz
-aaaaaaaaaaadvadv
-\agshzteahgnzzz
-zzzz
-
-
 ## sobre
 entusiasta do kotlin 
 amo
