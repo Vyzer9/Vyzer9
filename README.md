@@ -1,7 +1,7 @@
 <!-- Minimalist GitHub README -->
 agegvdb4244
 rergw42244
-86655353
+8665535344444244
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Richard;Security+Engineer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
