@@ -1,10 +1,5 @@
 <!-- Minimalist GitHub README -->
-rergw422443r2r23fafaas
-faegrg21sffasf
-0008gegwegzdgdasgagasg
-677jdtj333335fegweg24afa
-dheeh3343egqeg1rssfasf
-jhjkhkhsaaaaaaaaafaffaafa
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Richard;Security+Engineer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
