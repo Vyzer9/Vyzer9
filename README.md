@@ -19,7 +19,8 @@ I'm a security engineer focused on protecting complex systems, specializing in f
     <img src="https://skillicons.dev/icons?i=react,terraform,tailwind,linux,vite,redhat,bun,bash,flask,supabase,postman" />
   </a>
 
-## 🤝 Open Source Contributions
+## 💖 Support and Contributions to Open Source
+I actively contribute code and provide financial support to ensure the health and development of projects crucial to the community and my work.
 
 |<img width="396" height="120" src="https://www.jenkins.io/images/jenkins-logo-title-dark.svg" alt="Jenkins logo"> | <img width="396" height="120" alt="Untitled(1)" src="https://github.com/user-attachments/assets/c224284c-fa59-491f-8121-114510bf5311" />|
 ------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------
