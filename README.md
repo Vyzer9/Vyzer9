@@ -25,7 +25,7 @@ I actively contribute code and provide financial support to ensure the health an
 
 |<img width="396" height="120" src="https://www.jenkins.io/images/jenkins-logo-title-dark.svg" alt="Jenkins logo"> | <img width="396" height="120" alt="Untitled(1)" src="https://github.com/user-attachments/assets/c224284c-fa59-491f-8121-114510bf5311" />|
 ------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------
-|<img width="396" height="300" alt="ChatGPT Image Oct 12, 2025, 11_56_59 PM(1)" src="https://github.com/user-attachments/assets/4a5a70ad-7d58-46e5-ac72-9bb448cdff30" />| <img width="396" height="120" alt="image" src="https://github.com/user-attachments/assets/faf50e49-5be0-4436-946b-70398703163c" />|
+|<img width="372" height="258" alt="ChatGPT Image Oct 12, 2025, 11_56_59 PM(1)" src="https://github.com/user-attachments/assets/4a5a70ad-7d58-46e5-ac72-9bb448cdff30" />| <img width="372" height="258" alt="ValkanDGASSemfundo" src="https://github.com/user-attachments/assets/195012ed-f170-4b4e-b876-78f35d0c0c4d" />|
 
 
 
