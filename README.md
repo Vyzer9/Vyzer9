@@ -17,14 +17,16 @@ I'm a security engineer focused on protecting complex systems, specializing in f
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,js,ts,go,py,aws,docker,kubernetes,jenkins,azure,postgresql" />
     <img src="https://skillicons.dev/icons?i=react,nodejs,angular,linux,vite,redhat,bun,bash,flask,supabase,postman" />
-    <img src="https://skillicons.dev/icons?i=sass,mongodb,npm,gcp,deno,firebase,elixir,vscodium,kali,tailwind,vue" />
+    <img src="https://skillicons.dev/icons?i=mongodb,npm,gcp,deno,firebase,elixir,sass,vscodium,kali,tailwind,vue" />
   </a>
 
-## 🤝 My contributions Open source & Sponsors
+## 🤝 OSS contributions | Sponsors & Foundations
 I actively contribute code and provide financial support to ensure the health and development of projects crucial to the community and my work.
 
 |<img width="396" height="120" src="https://www.jenkins.io/images/jenkins-logo-title-dark.svg" alt="Jenkins logo"> | <img width="396" height="120" alt="Untitled(1)" src="https://github.com/user-attachments/assets/c224284c-fa59-491f-8121-114510bf5311" />|
 ------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------
+|<img width="396" height="120" alt="ValoraCommunity" src="https://github.com/user-attachments/assets/c7c09fdb-41b6-46e1-909d-44ffd77fbdf7" />| <img width="396" height="120" alt="image" src="https://github.com/user-attachments/assets/faf50e49-5be0-4436-946b-70398703163c" />|
+
 
 
 <!--|<img width="396" height="120" alt="image" src="https://github.com/user-attachments/assets/faf50e49-5be0-4436-946b-70398703163c" /> | <img width="396" height="150" alt="aws(1)" src="https://github.com/user-attachments/assets/7d009f39-8a2c-4aab-a97f-b3e2dbf5d569" />|-->
