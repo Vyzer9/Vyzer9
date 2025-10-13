@@ -16,8 +16,8 @@ I'm a security engineer focused on protecting complex systems, specializing in f
 ## 🛠️ Skills 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,ts,go,py,azure,aws,docker,kubernetes,jenkins,nodejs,postgresql" />
-    <img src="https://skillicons.dev/icons?i=react,angular,tailwind,linux,vite,redhat,bun,bash,flask,supabase,postman" />
-    <img src="https://skillicons.dev/icons?i=sass,mongodb,npm,gcp,deno,firebase,elixir,vscodium,kali,js,vue" />
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,linux,vite,redhat,bun,bash,flask,supabase,postman" />
+    <img src="https://skillicons.dev/icons?i=sass,mongodb,npm,gcp,deno,firebase,elixir,vscodium,kali,angular,vue" />
   </a>
 
 ## 🤝 My contributions Open source & Sponsors
