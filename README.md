@@ -24,7 +24,7 @@ I actively contribute code and provide financial support to ensure the health an
 
 |<img width="396" height="120" src="https://www.jenkins.io/images/jenkins-logo-title-dark.svg" alt="Jenkins logo"> | <img width="396" height="120" alt="Untitled(1)" src="https://github.com/user-attachments/assets/c224284c-fa59-491f-8121-114510bf5311" />|
 ------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------
-|<img width="372" height="258" alt="ValoraK8s" src="https://github.com/user-attachments/assets/61005a21-20d1-4e56-b5e1-f36696697dc8" />| <img width="372" height="258" alt="image" src="https://github.com/user-attachments/assets/b756a6e3-b4cd-4d87-a24f-0b6bdbb87c24" />|
+
 
 
 
