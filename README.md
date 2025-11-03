@@ -1,30 +1,46 @@
 <!-- Minimalist GitHub README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Richard;Security+Engineer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Richard;Back-end+Engineer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <sub>Security Engineer & Security Researcher · Focused on clean code and scalable systems </sub>
+  <sub> Back-end Engineer & Cloud Software Architect · Kotlin - Microservices and AWS </sub>
 </p>
 
 ---
 
-## 🕵️‍♂️ About Me
-I'm a security engineer focused on protecting complex systems, specializing in full-stack development, cloud architecture, and advanced security research. I lead high-impact projects for large organizations, driving scalable solutions and mentoring emerging talent. As the creator of my own programming language, I bring innovative solutions to the technology community. Passionate about clean code and system resilience, I thrive at the intersection of security and software engineering. 
+## About Me
+Experienced Software Engineer specializing in Kotlin, with solid experience in designing and developing microservices and cloud-native architectures on Amazon Web Services. Extensive knowledge of other front-end and cloud-related technologies such as Oracle and Azure.
 
-## 🛠️ Skills 
+## Skills
+
+<details>
+  <summary><b>Click to view all technologies</b></summary>
+
+  <br>
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,js,ts,go,py,aws,docker,kubernetes,jenkins,azure,postgresql" />
     <img src="https://skillicons.dev/icons?i=react,nodejs,angular,vue,vite,redhat,bun,bash,tailwind,supabase,postman" />
   </a>
 
-## 🤝 OSS contributions 
+</details>
+
+
+## OSS Contributions
+
 I actively contribute code and provide financial support to ensure the health and development of projects crucial to the community and my work.
 
-|<img width="396" height="120" src="https://www.jenkins.io/images/jenkins-logo-title-dark.svg" alt="Jenkins logo"> | <img width="396" height="120" alt="Untitled(1)" src="https://github.com/user-attachments/assets/c224284c-fa59-491f-8121-114510bf5311" />|
-------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------
+<details>
+  <summary><b>Click to view supported and contributed projects</b></summary>
 
+  <br>
+
+  | <img width="396" height="120" src="https://www.jenkins.io/images/jenkins-logo-title-dark.svg" alt="Jenkins logo"> | <img width="396" height="120" src="https://github.com/user-attachments/assets/c224284c-fa59-491f-8121-114510bf5311" alt="Project logo" /> |
+  |:------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
+
+</details>
 
 
 
