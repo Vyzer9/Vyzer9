@@ -21,8 +21,8 @@ Experienced Software Engineer specializing in Kotlin, with solid experience in d
   <br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,js,ts,go,py,aws,docker,kubernetes,jenkins,azure,postgresql" />
-    <img src="https://skillicons.dev/icons?i=react,nodejs,angular,vue,vite,redhat,bun,bash,tailwind,supabase,postman" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,aws,gradle,docker,kubernetes,jenkins,azure,postgresql" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,vue,vite,stackoverflow,gcp,bun,bash,tailwind,supabase,postman" />
   </a>
 
 </details>
