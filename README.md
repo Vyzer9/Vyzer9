@@ -10,10 +10,10 @@
 
 ---
 
-## About Me
+## 🕵🏼‍♂️ About Me
 Experienced Software Engineer specializing in Kotlin, with solid experience in designing and developing microservices and cloud-native architectures on Amazon Web Services. Extensive knowledge of other front-end and cloud-related technologies such as Oracle and Azure.
 
-## Skills
+## 🛠 Skills
 
 <details>
   <summary><b>Click to view all technologies</b></summary>
@@ -28,7 +28,7 @@ Experienced Software Engineer specializing in Kotlin, with solid experience in d
 </details>
 
 
-## OSS Contributions
+## 🤝 OSS Contributions
 
 I actively contribute code and provide financial support to ensure the health and development of projects crucial to the community and my work.
 
