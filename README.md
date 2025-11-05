@@ -13,19 +13,13 @@
 ## 🕵🏼‍♂️ About Me
 Experienced Software Engineer specializing in Kotlin, with solid experience in designing and developing microservices and cloud-native architectures on Amazon Web Services. Extensive knowledge of other front-end and cloud-related technologies such as Oracle and Azure.
 
-## 🛠 Skills
-
-<details>
-  <summary><b>Click to view all technologies</b></summary>
-
-  <br>
+## 🧰 Skills
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,aws,gradle,docker,kubernetes,jenkins,azure,postgresql" />
     <img src="https://skillicons.dev/icons?i=react,nodejs,vue,vite,stackoverflow,gcp,bun,bash,tailwind,supabase,postman" />
   </a>
 
-</details>
 
 
 ## 🤝 OSS Contributions
