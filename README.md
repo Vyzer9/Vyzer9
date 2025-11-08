@@ -1,11 +1,11 @@
 <!-- Minimalist GitHub README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Richard;Back-end+Engineer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Richard;Fullstack+Engineer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <sub> Back-end Engineer & Cloud Software Architect · Kotlin - Microservices and AWS </sub>
+  <sub> Fullstack Engineer & Cloud Software Architect · Kotlin - Microservices and AWS </sub>
 </p>
 
 ---
